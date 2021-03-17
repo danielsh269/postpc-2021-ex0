@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">postpc-2021-ex0</string>
+    <string name="hello_world">Hello World</string>
 </resources>
